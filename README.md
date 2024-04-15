@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mw-77
 - 👀 I’m interested in automotive, technology, sports, self growth.
-- 🌱 I’m currently learning cybersecurity, java, python.
-- 💞️ I’m looking to collaborate on IT cybersecurity internship
+- 🌱 I’m currently learning programming/security.
 - 📫 How to reach me - marcin.weredaaa@gmail.com
 
 <!---
